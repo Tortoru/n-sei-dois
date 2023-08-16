@@ -1,0 +1,127 @@
+.header {
+  background-color: #25D366;
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  height: 15%;
+  width: 100%;
+}
+
+.logo {
+  left: 5%;
+  top: 10%;
+  height: 80%;
+  width: 7.5%;
+  position: absolute;
+}
+
+.dois {
+  position: absolute;
+  left: 13%;
+  top: 10%;
+  height: 80%;
+  width: 5%;
+}
+
+.fonte {
+    font-size: 70px;
+    color: #ffc107;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    text-shadow: 0px 0px 0 rgb(250,188,2),
+                 1px 1px 0 rgb(245,183,0),
+                 2px 2px 0 rgb(240,178,0),
+                 3px 3px 0 rgb(235,173,0),
+                 4px 4px 0 rgb(230,168,0),
+                 5px 5px 0 rgb(225,163,0),
+                 6px 6px 0 rgb(220,158,0),
+                 7px 7px 0 rgb(215,153,0),
+                 8px 8px 0 rgb(210,148,0),
+                 9px 9px 0 rgb(205,143,0),
+                 10px 10px  0 rgb(200,138,0),
+                 11px 11px 10px rgba(0,0,0,0.6),
+                 11px 11px 1px rgba(0,0,0,0.5),
+                 0px 0px 10px rgba(0,0,0,.2);
+  position: absolute;
+  left: 20%;
+ }
+
+.entrar {
+  position: absolute;
+  color: yellow;
+  font-size: 3.5em;
+  right: 7%;
+  top: 20%;
+  padding-top: 0%;
+  margin-top: 0%;
+}
+
+.site {
+  border: black 1px 1px 1px 1px solid;
+  height: 75%;
+  width: 80%;
+  left: 10%;
+  top: 20%;
+  position: absolute;
+  background-color: #ededed;
+}
+
+body {
+  background-color: #F5F5F5;
+}
+
+.nome {
+ position: absolute;
+ height: 10%;
+ width: 100%;
+ left: 0%;
+ top: 0%;
+ background-color: #c7c7c7;
+}
+
+.arnold {
+ position: absolute;
+ left: 5%;
+ height: 70%;
+ width: 5%;
+ top: 15%;
+ border-radius: 100px;
+}
+
+.name {
+ color: white;
+ position: absolute;
+ left: 12%;
+ font-size: 1.5em;
+ top: 30%;
+ margin-top: 0;
+}
+
+.segundo {
+  position: absolute;
+  border-radius: 100%;
+  width: 35%;
+  height: 45%;
+  left: 32.5%;
+  top: 15%;
+}
+
+.atender {
+  position: absolute;
+  width: 10%;
+  left: 30%;
+  top: 70%;
+}
+
+.recusar {
+  position: absolute;
+  width: 9%;
+  left: 60%;
+  top: 71.5%;
+}
+
+.call {
+  font-size: 1.5em;
+  position: absolute;
+  left: 44%;
+  top: 60%;
+}
